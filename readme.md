@@ -126,7 +126,6 @@ Reprezentacja graficzna:
 [INFO] Finished at: 2024-11-24T12:43:18+01:00
 [INFO] ------------------------------------------------------------------------
 
-
 <table class="coverage" cellspacing="0" id="coveragetable">
   <thead>
     <tr>
