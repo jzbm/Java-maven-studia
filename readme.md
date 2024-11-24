@@ -1,3 +1,132 @@
+Rysowanie figury:
+Typ figury: Rectangle
+Kolor figury: Red: 200, Green: 0, Blue: 0, Alpha: 0,50
+
+Reprezentacja graficzna:
+* * * 
+* * * 
+* * * 
+* * * 
+
+
+Rysowanie figury:
+Typ figury: Triangle
+Kolor figury: Red: 255, Green: 100, Blue: 50, Alpha: 0,00
+
+Reprezentacja graficzna:
+* *
+  * * * * 
+ * * * * * 
+* * * * * * * 
+
+
+Rysowanie figury:
+Typ figury: Rectangle
+Kolor figury: Red: 0, Green: 200, Blue: 0, Alpha: 0,60
+
+Reprezentacja graficzna:
+* * * * * * 
+* * * * * * 
+* * * * * * 
+* * * * * * 
+* * * * * * 
+* * * * * * 
+* * * * * * 
+
+
+Rysowanie figury:
+Typ figury: Triangle
+Kolor figury: Red: 0, Green: 0, Blue: 200, Alpha: 0,80
+
+Reprezentacja graficzna:
+* *
+   * * * 
+  * * * * * 
+ * * * * * * 
+* * * * * * * * 
+
+
+Rysowanie figury:
+Typ figury: Rectangle
+Kolor figury: Red: 255, Green: 255, Blue: 50, Alpha: 0,40
+
+Reprezentacja graficzna:
+* * * * * * * * 
+* * * * * * * * 
+* * * * * * * * 
+* * * * * * * * 
+* * * * * * * * 
+* * * * * * * * 
+* * * * * * * * 
+* * * * * * * * 
+* * * * * * * * 
+
+
+Rysowanie figury:
+Typ figury: Triangle
+Kolor figury: Red: 150, Green: 150, Blue: 150, Alpha: 1,00
+
+Reprezentacja graficzna:
+* *
+* * * *
+   * * * * * * 
+  * * * * * * * 
+ * * * * * * * * * 
+* * * * * * * * * * * 
+
+
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.045 s -- in MainTest
+[INFO] Running ShapeRendererTest
+Rysowanie figury:
+Typ figury: Triangle
+Kolor figury: Red: 255, Green: 255, Blue: 0, Alpha: 0,00
+
+Reprezentacja graficzna:
+ * * * 
+* * * * * 
+
+
+Rysowanie figury:
+Typ figury: Triangle
+Kolor figury: Red: 255, Green: 0, Blue: 255, Alpha: 0,00
+
+Reprezentacja graficzna:
+ * * * 
+* * * * * 
+
+
+Rysowanie figury:
+Typ figury: Rectangle
+Kolor figury: Red: 255, Green: 0, Blue: 0, Alpha: 0,00
+
+Reprezentacja graficzna:
+* *
+* *
+* *
+
+
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.009 s -- in ShapeRendererTest
+[INFO] Running ShapeTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 s -- in ShapeTest
+[INFO] Running TriangleTest
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.011 s -- in TriangleTest
+[INFO]
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 16, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO]
+[INFO] --- jacoco:0.8.11:report (default-cli) @ untitled ---
+[INFO] Loading execution data file C:\Users\dg\IdeaProjects\untitled\target\jacoco.exec
+[INFO] Analyzed bundle 'untitled' with 7 classes
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.616 s
+[INFO] Finished at: 2024-11-24T12:43:18+01:00
+[INFO] ------------------------------------------------------------------------
+
+
 <table class="coverage" cellspacing="0" id="coveragetable">
   <thead>
     <tr>
