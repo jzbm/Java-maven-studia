@@ -38,7 +38,15 @@
       <td id="a0">
         <a href="default/index.html" class="el_package">default</a>
       </td>
+      <td class="bar" id="b0">
+        <img src="" width="2" height="10" title="11" alt="11">
+        <img src="" width="117" height="10" title="496" alt="496">
+      </td>
       <td class="ctr2" id="c0">97%</td>
+      <td class="bar" id="d0">
+        <img src="" width="21" height="10" title="5" alt="5">
+        <img src="" height="10" title="23" alt="23">
+      </td>
       <td class="ctr2" id="e0">82%</td>
       <td class="ctr1" id="f0">7</td>
       <td class="ctr2" id="g0">38</td>
